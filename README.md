@@ -1,4 +1,11 @@
-## Hi there 👋
+## Aspiring DevOps Engineer passionate about Cloud and Automation.
+
+Currently building hands-on projects with AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible, and Linux while strengthening my understanding of CI/CD and Infrastructure Automation.
+
+Transitioned from Technical Recruitment into DevOps with a strong interest in scalable systems, automation, and modern cloud technologies.
+
+Always learning, building, and improving.
+
 
 <!--
 **manjeetsaini12/manjeetsaini12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
