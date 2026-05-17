@@ -1,4 +1,6 @@
-## Aspiring DevOps Engineer passionate about Cloud and Automation.
+## 
+
+I'm an aspiring DevOps Engineer passionate about Cloud and Automation.
 
 Currently building hands-on projects with AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible, and Linux while strengthening my understanding of CI/CD and Infrastructure Automation.
 
