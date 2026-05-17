@@ -1,25 +1,43 @@
-## 
+# Hi there 👋 I'm Manjeet
 
-I'm an aspiring DevOps Engineer passionate about Cloud and Automation.
+## 🚀 About Me
 
-Currently building hands-on projects with AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible, and Linux while strengthening my understanding of CI/CD and Infrastructure Automation.
+I'm an aspiring DevOps Engineer from India, currently building hands-on experience with Cloud and DevOps technologies.
 
-Transitioned from Technical Recruitment into DevOps with a strong interest in scalable systems, automation, and modern cloud technologies.
+After working as a Technical Recruiter in the IT industry, I transitioned into DevOps to work more closely with modern infrastructure, automation, and cloud-native technologies.
 
-Always learning, building, and improving.
+* 🌱 Currently learning and building with AWS, Docker, Kubernetes, Terraform, Jenkins, and Ansible
+* 🔭 Working on real-world DevOps and CI/CD projects
+* 💬 Ask me about Linux, Git, Docker, Kubernetes, and Terraform
+* ⚡ Interested in Cloud Infrastructure, Automation, and Platform Engineering
 
+---
 
-<!--
-**manjeetsaini12/manjeetsaini12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+* ☁️ Cloud: AWS
+* 📦 Containerization: Docker
+* ☸️ Orchestration: Kubernetes
+* 🔄 CI/CD: Jenkins
+* 🏗️ Infrastructure as Code: Terraform
+* ⚙️ Configuration Management: Ansible
+* 🐧 Operating Systems: Linux
+* 🌿 Version Control: Git
+* 🖥️ Scripting: Shell Scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Current Focus
+
+* Building CI/CD pipelines
+* Kubernetes deployments
+* Infrastructure automation
+* Dockerized applications
+* DevOps projects for hands-on learning
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: [https://www.linkedin.com/in/manjeet-saini-003b65230/]
+
