@@ -2,15 +2,13 @@
 
 ## 🚀 About Me
 
-I'm an aspiring DevOps Engineer from India, currently building hands-on experience with Cloud and DevOps technologies.
+I'm an aspiring DevOps Engineer, currently building hands-on experience with Cloud and DevOps technologies.
 
 After working as a Technical Recruiter in the IT industry, I transitioned into DevOps to work more closely with modern infrastructure, automation, and cloud-native technologies.
 
 * 🌱 Currently learning and building with AWS, Docker, Kubernetes, Terraform, Jenkins, and Ansible
 * 🔭 Working on real-world DevOps and CI/CD projects
-* 💬 Ask me about Linux, Git, Docker, Kubernetes, and Terraform
-* ⚡ Interested in Cloud Infrastructure, Automation, and Platform Engineering
-
+* ⚡ Interested in Cloud Infrastructure, Automation, and AI
 ---
 
 ## 🛠️ Tech Stack
