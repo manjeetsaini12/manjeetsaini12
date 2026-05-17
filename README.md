@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Manjeet
+# Hi there 👋
 
 ## 🚀 About Me
 
